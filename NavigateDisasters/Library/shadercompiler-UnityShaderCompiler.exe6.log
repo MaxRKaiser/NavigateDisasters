@@ -1,0 +1,14 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at FireTrackingShader.compute(67): implicit truncation of vector type
+  error: 1 plat 4 at FireTrackingShader.compute(69): implicit truncation of vector type
+  error: 1 plat 4 at FireTrackingShader.compute(72): implicit truncation of vector type
+  error: 1 plat 4 at FireTrackingShader.compute(75): implicit truncation of vector type
+  error: 1 plat 4 at FireTrackingShader.compute(78): implicit truncation of vector type
+  error: 1 plat 4 at FireTrackingShader.compute(81): implicit truncation of vector type
+  error: 1 plat 4 at FireTrackingShader.compute(84): implicit truncation of vector type
+  error: 1 plat 4 at FireTrackingShader.compute(87): implicit truncation of vector type
+  error: 1 plat 4 at FireTrackingShader.compute(90): implicit truncation of vector type
+  error: 1 plat 4 at FireTrackingShader.compute(109): implicit truncation of vector type
+  api=4 insize=4493 outsize=3017 ok=1
